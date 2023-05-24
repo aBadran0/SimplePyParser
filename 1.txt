@@ -1,0 +1,14 @@
+x = y + z +
+x = $
+3
+y =
+y
+y = x * "hello"
+z = 4.14.15
+a = +-5
+b = x* y 7
+c = x / * z + 2.5
+d = 10 % "hello"
+e = a + b * c / d )
+f = foo+bar
+g = 3.0 + 4.5.6
