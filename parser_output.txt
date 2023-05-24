@@ -1,0 +1,54 @@
+File Number 1: 
+ERROR in line 1: expected Identifier or Numerical Literal after operator instead found +
+ERROR in line 2: expected Identifier or Numerical Literal after assignment operator instead found $
+ERROR in line 3: expected identifier instead found 3
+ERROR in line 4: expected Identifier or Numerical Literal after assignment operator instead found =
+ERROR in line 5: expected assignment operator after identifier instead found y
+ERROR in line 6: expected Identifier or Numerical Literal after operator instead found "
+ERROR in line 7: expected operator after numerical literal instead found .
+ERROR in line 8: expected Identifier or Numerical Literal after assignment operator instead found +
+ERROR in line 9: expected operator after identifier instead found 7
+ERROR in line 10: expected Identifier or Numerical Literal after operator instead found *
+ERROR in line 11: expected Identifier or Numerical Literal after operator instead found "
+ERROR in line 12: expected operator after identifier instead found )
+Line 13 is correct
+ERROR in line 14: expected operator after numerical literal instead found .
+
+Program ran with 13 errors
+--------------------------------------------------------------------
+File Number 2: 
+Line 1 is correct
+ERROR in line 2: expected assignment operator after identifier instead found -
+Line 4 is correct
+ERROR in line 5: expected operator after numerical literal instead found .
+Line 6 is correct
+ERROR in line 7: expected assignment operator after identifier instead found .
+Line 8 is correct
+ERROR in line 9: expected Identifier or Numerical Literal after operator instead found -
+Line 10 is correct
+ERROR in line 11: expected Identifier or Numerical Literal after assignment operator instead found +
+
+Program ran with 5 errors
+--------------------------------------------------------------------
+File Number 3: 
+Line 1 is correct
+Line 2 is correct
+Line 3 is correct
+Line 4 is correct
+ERROR in line 5: expected Identifier or Numerical Literal after operator instead found *
+ERROR in line 6: expected operator after identifier instead found z
+ERROR in line 7: expected operator after identifier instead found z
+ERROR in line 8: expected Identifier or Numerical Literal after assignment operator instead found +
+ERROR in line 10: expected operator after identifier instead found a
+
+Program ran with 5 errors
+--------------------------------------------------------------------
+File Number 4: 
+ERROR in line 1: expected operator after identifier instead found &
+Line 2 is correct
+Line 3 is correct
+ERROR in line 4: expected operator after numerical literal instead found #
+Line 5 is correct
+
+Program ran with 2 errors
+--------------------------------------------------------------------
